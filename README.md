@@ -6,3 +6,5 @@ Implementation of sorting algorithms // Python
 
 
 * [Реализация метода сортировки односвязного списка](https://github.com/JuliaRyzhova/Algorithms/blob/master/reverse_linkedList.py)
+
+* [Реализация левостороннего красно-черного дерева](https://github.com/JuliaRyzhova/Algorithms/blob/master/red_black_tree.py)
